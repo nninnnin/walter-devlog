@@ -1,12 +1,12 @@
 module.exports = {
-  pathPrefix: "/leonids",
+  pathPrefix: "/dev-walter",
   siteMetadata: {
-    title: `Leonids`,
+    title: `Dev Walter`,
     author: {
       name: `@ry_zou`,
       summary: `web dev`,
     },
-    description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
+    description: `Gatsby의 Leonids theme을 기반으로한 개발 블로그 입니다.`,
     siteUrl: `https://renyuanz.github.io/leonids`,
     social: {
       twitter: `ry_zou`,
@@ -83,5 +83,11 @@ module.exports = {
     `gatsby-plugin-offline`,
     "gatsby-plugin-dark-mode",
     `gatsby-plugin-postcss`,
+    {
+      resolve: `gatsby-plugin-styled-components`,
+      options: {
+        // add any options here
+      }
+    }
   ],
 }

@@ -1,35 +1,7 @@
-# Leonids Gatsby starter
+# Walter's devlog
 
-**[Leonids](http://renyuanz.github.io/leonids)** is a clean, fixed sidebar Gatsby starter which is perfect for powering your GitHub hosted blog.
+안녕하세요 이동규입니다. 최근 다닌 직장에서 Walter라고 불리웠는데 그 이름이 가진 느낌이 나쁘지 않은 듯 하여 Walter's devlog 라는 이름으로 개발 블로그를 개설합니다.
 
-### Preview
+해당 블로그는 leonids 라는 개츠비 theme을 기반으로 만들어졌습니다.
 
-![theme-preview](./content/assets/theme-preview.gif)
-
-## What is Leonids?
-
-A blazing fast static blog theme built on Gatsby.js
-
-![lighthouse-performance](./content/assets/lighthouse-performance.png)
-
-- Responsive templates. Looking good on any viewport.
-- Fixed sidebar to provide a good navigation experience while reading.
-- Light/Dark mode.
-- **And** the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
-
-See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub pages.
-
-## Quick setup
-
-```
-gatsby new my-blog https://github.com/renyuanz/leonids
-cd my-blog
-gatsby develop
-```
-
-Check out your awesome blog at `http://localhost:8000` and Cheers!
-
-
-## Legacy Jekyll theme
-
-This project was a Jekyll blog theme, which is archived and not maintained any more. You can still find the source code in [leonids-jekyll](https://github.com/renyuanz/leonids/tree/leonids-jekyll) branch.
+inspired and pushed(?) by Joshua of Carrot ins corp.
