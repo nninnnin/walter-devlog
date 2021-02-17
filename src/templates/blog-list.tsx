@@ -46,9 +46,12 @@ const BlogIndex = ({
   const prevPage = currentPage - 1 === 1 ? "/" : `/${currentPage - 1}`
   const nextPage = `/${currentPage + 1}`
 
+  console.log('요거요거', data);
+
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
+
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;
 

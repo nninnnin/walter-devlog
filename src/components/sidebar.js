@@ -7,7 +7,7 @@ const Sidebar = ({ title }) => {
   console.log({ title });
   return (
     <div
-      className="md:h-screen p-4"
+      className="md:h-screen p-16"
     >
       <ThemeTogglerCustom />
       <h2
